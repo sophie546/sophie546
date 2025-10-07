@@ -20,13 +20,14 @@ I'm **Sopi** — your coder enthusiast :3
 
 ---
 
-### ⚡ Fun Fact
-> “I don’t always test my code…  
-> but when I do, I do it in production.” 😎
-
-<p align="left">
-  <img src="https://i.pinimg.com/originals/82/0a/35/820a3503f1de10eeb1307ada52a44882.gif" width="300" alt="Gojo Satoru GIF">
-</p>
+<h3>⚡ Fun Fact</h3>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <blockquote>
+    “I don’t always test my code…<br>
+    but when I do, I do it if there’s money.” 😎
+  </blockquote>
+  <img src="https://i.pinimg.com/originals/82/0a/35/820a3503f1de10eeb1307ada52a44882.gif" width="250" alt="Gojo Satoru GIF">
+</div>
 
 
 
