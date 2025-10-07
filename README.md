@@ -3,12 +3,18 @@ I'm **Sopi** — your coder enthusiast :3
 
 ---
 
-### 💫 About Me
-🤓 Born to be a **Geek**, fueled by caffeine and curiosity.  
-🌱 I’m in love with **Java Spring Boot** — it truly *boosts my bootybooty brain* 🧠  
-💻 I enjoy building **Games, Web, and Mobile apps** — basically anything that involves coding!  
-💍✨ *Married to Java*, but I’m secretly seeing Python on the weekends 🐍  
-📫 Reach me at **[sophie.aloria@gmail.com](mailto:sophie.aloria@gmail.com)**  
+<h3 align="left">🌟 About Me</h3>
+<p>
+  <img align="left" src="https://github.com/SophiaBianca/SophiaBianca/blob/main/assets/geek.gif" width="80" alt="Geek GIF">
+</p>
+
+<p>🤓 <b>Born to be a Geek</b>, fueled by caffeine and curiosity.<br>
+🌱 I’m in love with <b>Java Spring Boot</b> — it truly <i>boosts my bootybooty brain</i> 🧠<br>
+💻 I enjoy building <b>Games, Web, and Mobile apps</b> — basically anything that involves coding!<br>
+💍✨ <i>Married to Java</i>, but secretly seeing Python on weekends 🐍<br>
+📫 Reach me at <a href="mailto:sophie.aloria@gmail.com">sophie.aloria@gmail.com</a>
+</p>
+
 
 ---
 
