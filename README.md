@@ -2,20 +2,11 @@
 I'm **Sopi** — your coder enthusiast :3  
 
 ---
-
-<h3 align="left">🌟 About Me</h3>
-<p>
-  <img align="left" src="https://github.com/SophiaBianca/SophiaBianca/blob/main/assets/geek.gif" width="80" alt="Geek GIF">
-</p>
-
-<p>🤓 <b>Born to be a Geek</b>, fueled by caffeine and curiosity.<br>
+🤓 <b>Born to be a Geek</b>, fueled by caffeine and curiosity.<br>
 🌱 I’m in love with <b>Java Spring Boot</b> — it truly <i>boosts my bootybooty brain</i> 🧠<br>
 💻 I enjoy building <b>Games, Web, and Mobile apps</b> — basically anything that involves coding!<br>
 💍✨ <i>Married to Java</i>, but secretly seeing Python on weekends 🐍<br>
 📫 Reach me at <a href="mailto:sophie.aloria@gmail.com">sophie.aloria@gmail.com</a>
-</p>
-
-
 ---
 
 ### 🧰 Languages & Tools
@@ -29,6 +20,7 @@ I'm **Sopi** — your coder enthusiast :3
 
 ### ⚡ Fun Fact
 > “I don’t always test my code…  
-> but when I do, I do it in production.” 😎  
+> but when I do, I do it in production.” 😎
+> ![Gojo](https://media.tenor.com/XbQzLbOcv4sAAAAC/gojo-satoru.gif)
 
 
