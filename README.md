@@ -1,8 +1,12 @@
-# Hi there, I'm Sophia Bianca! 👋  
+# Hello there fellow human👋, I'm Sopi! ur coder enthusiast :3   
 
-🌱 I’m currently learning **Spring Boot** and **Thymeleaf**  
-💻 I love building **Java web apps**  
-📫 Reach me at [your.email@gmail.com](mailto:your.email@gmail.com)  
+wait... about me?
+ofc born to be a Geek
+then.... 
+🌱 well I love Java SpringBoot my fav one cause it boost my bootybooty brain :3;
+💻 I love building Games, Web, Mob anything bruh that involves coding;
+💍✨ married to java then second python;
+📫 Reach me at [sophie.aloria@gmail.com](mailto:your.email@gmail.com)  
 
 ---
 
@@ -12,8 +16,4 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
 
-### 📈 GitHub Stats
-![Sophia's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight)
