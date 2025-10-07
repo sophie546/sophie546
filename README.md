@@ -15,6 +15,8 @@ I'm **Sopi** — your coder enthusiast :3
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ---
 
@@ -22,7 +24,7 @@ I'm **Sopi** — your coder enthusiast :3
 > “I don’t always test my code…  
 > but when I do, I do it in production.” 😎
 
-<p align="center">
+<p align="left">
   <img src="https://i.pinimg.com/originals/82/0a/35/820a3503f1de10eeb1307ada52a44882.gif" width="300" alt="Gojo Satoru GIF">
 </p>
 
