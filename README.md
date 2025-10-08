@@ -31,7 +31,7 @@
     </td>
     <td align="center" width="120">
       <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="60">
-      <br><b style="font-size: 16px;">Java</b>
+      <br><b style="font-size: 16px;">Python</b>
     </td>
     <td align="center" width="120">
       <img src="https://media.giphy.com/media/KSqtZEnO10k2jBo0Vk/giphy.gif" width="60">
