@@ -39,7 +39,7 @@
     </td>
     <td align="center" width="120">
       <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60">
-      <br><b style="font-size: 16px;">Python</b>
+      <br><b style="font-size: 16px;">JavaMeow</b>
     </td>
   </tr>
 </table>
