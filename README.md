@@ -1,20 +1,25 @@
 <div align="center">
 
-<!-- Animated Header -->
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+<h1 align="center" style="color:#1E90FF;">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="wave">
   Hello there, fellow human 👋
 </h1>
 
-<!-- Animated Typing -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=6DB33F&center=true&vCenter=true&width=500&lines=I'm+Sopi+%E2%80%94+your+coder+enthusiast+%3A3;Java+Spring+Boot+Lover+%F0%9F%8C%B1;Full-Stack+Developer+%F0%9F%92%BB;Professional+Debugger+%F0%9F%98%8E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=I'm+Sopi+—+your+coder+enthusiast+%F0%9F%92%BB;Java+Spring+Boot+Lover+%E2%98%81%EF%B8%8F;Full-Stack+Developer+%F0%9F%9A%80;Passionate+Debugger+%F0%9F%94%8E)](https://git.io/typing-svg)
 
-<!-- Profile Views -->
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sopialoria&color=6DB33F&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=sopialoria&color=1E90FF&style=for-the-badge" alt="Profile views" />
+</p>
+
+
+<p align="center" style="font-size: 16px; color: #4682B4; font-style: italic;">
+  Study like Rizal<br>
+  And hey, if you’re into trading too, let's team up typa shi
 </p>
 
 </div>
+
 
 
 ---
@@ -23,7 +28,6 @@
 
 <div align="center">
 
-<!-- Bigger Animated Icons Section -->
 <table>
   <tr>
     <td align="center" width="120">
@@ -51,11 +55,11 @@
 
 <div align="left">
 
-✨ **Born to be a Geek**, fueled by caffeine and curiosity.<br>
-🚀 **In love with Java Spring Boot** — it truly *boosts my bootybooty brain* 🧠<br>
-💻 **I enjoy building Games, Web, and Mobile apps** — basically anything that involves coding!<br>
-💞 **Married to Java**, but secretly seeing Python on weekends 🐍<br>
-📫 **Reach me at:** [sophie.aloria@gmail.com](mailto:sophie.aloria@gmail.com)
+**Born to be a Geek**, fueled by caffeine and curiosity.<br>
+**In love with Java Spring Boot** — it truly *boosts my bootybooty brain* 🧠<br>
+**I enjoy building Games, Web, and Mobile apps** — basically anything that involves coding!<br>
+**Married to Java**, but secretly seeing Python on weekends 🐍<br>
+**Reach me at:** [sophie.aloria@gmail.com](mailto:sophie.aloria@gmail.com)
 
 </div>
 
@@ -67,7 +71,7 @@
 
 ### 💻 Languages & Frameworks
 
-<!-- Programming Languages -->
+
 <div align="center">
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -102,9 +106,9 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=sophie546&show_icons=true&theme=github_dark&hide_border=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=sophie546&theme=github-dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sophie546&layout=compact&theme=github_dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=sophie546&show_icons=true&theme=tokyonight&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=sophie546&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sophie546&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
