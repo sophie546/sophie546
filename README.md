@@ -7,18 +7,19 @@
 </h1>
 
 <!-- Animated Typing -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=FF6B8B&center=true&vCenter=true&width=500&lines=I'm+Sopi+%E2%80%94+your+coder+enthusiast+%3A3;Java+Spring+Boot+Lover+%F0%9F%8C%B1;Full-Stack+Developer+%F0%9F%92%BB;Professional+Debugger+%F0%9F%98%8E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=6DB33F&center=true&vCenter=true&width=500&lines=I'm+Sopi+%E2%80%94+your+coder+enthusiast+%3A3;Java+Spring+Boot+Lover+%F0%9F%8C%B1;Full-Stack+Developer+%F0%9F%92%BB;Professional+Debugger+%F0%9F%98%8E)](https://git.io/typing-svg)
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sopialoria&color=ff69b4&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=sopialoria&color=6DB33F&style=flat" alt="Profile views" />
 </p>
 
 </div>
 
+
 ---
 
-## 🎯 About Me
+##  🎯 About Me
 
 <div align="center">
 
@@ -97,20 +98,18 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<!-- GitHub Stats Cards -->
-![](https://github-readme-stats.vercel.app/api?username=sophie546&show_icons=true&theme=radical&hide_border=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=sophie546&theme=radical&hide_border=true)
-
-<!-- Most Used Languages -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sophie546&layout=compact&theme=radical&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=sophie546&show_icons=true&theme=github_dark&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=sophie546&theme=github-dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sophie546&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
 
 ---
+
 
 <div align="center">
 
