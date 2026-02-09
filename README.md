@@ -7,7 +7,7 @@ Information Technology Student | Cebu Institute of Technology
 - **Frontend**: React, HTML5, CSS3, JavaScript
 - **Backend**: Java Spring Boot, Python, REST APIs
 - **Tools**: Git, Docker, VS Code, IntelliJ IDEA
-- **Multimedia**: Video Production, UI/UX Design
+- **Multimedia**: Video Production, UI/UX Designs
 
 ## 📫 Connect
 - **Email**: [sophie.aloria@gmail.com](mailto:sophie.aloria@gmail.com)
