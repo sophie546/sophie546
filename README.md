@@ -1,7 +1,7 @@
 # Sophia Bianca Aloria
 
 **Full-Stack Developer**  
-Information Technology Student | Cebu Institute of Technologyy
+Information Technology Student | Cebu Institute of Technology
 
 ## 📫 Connect
 - **Email**: [sophie.aloria@gmail.com](mailto:sophie.aloria@gmail.com)
